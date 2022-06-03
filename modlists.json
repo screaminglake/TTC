@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Whispering Chills",
+    "description": "A Tale of Two Commonwealths is an experience based around the concept of transforming the look and feel of Fallout 4 into that of Fallout 3 and New Vegas, respectively.  We have compiled nearly every known and publicly available Fallout 3/New Vegas-inspired mod out there and brought them all together through the use of two profiles that allow you to seamlessly transition between the experiences of Fallout 3 and New Vegas with a couple clicks.  Everything from equipment to gameplay and visuals (including custom ENB presets for both profiles) has been overhauled to match the feel and aesthetics of classic Fallout's.",
+    "author": "ScreamingLake",
+    "maintainers": [
+      "github/screaminglake"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Fallout Classics",
+      "Total Conversion",
+      "Unofficial"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/Bz9mPEo.png",
+      "readme": "https://www.fallout4experiences.com/tale-of-two-commonwealths",
+      "download": "https://authored-files.wabbajack.org/Whispering Chills.wabbajack_096d09ed-205c-406b-9640-2a35605a7152",
+      "machineURL": "TTC",
+      "discordURL": "https://discord.gg/strraNQxEQ"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "Bqo/bnpM7zU=",
+      "Size": 10696055,
+      "NumberOfArchives": 169,
+      "SizeOfArchives": 14190804594,
+      "NumberOfInstalledFiles": 9247,
+      "SizeOfInstalledFiles": 19054242142
+    },
+    "version": "1.0",
+    "RepositoryName": ""
+  }
+]
