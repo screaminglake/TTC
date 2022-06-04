@@ -16,11 +16,11 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": true,
+    "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://i.imgur.com/Bz9mPEo.png",
+      "image": "https://i.imgur.com/NxjQd94.png",
       "readme": "https://www.fallout4experiences.com/tale-of-two-commonwealths",
       "download": "https://authored-files.wabbajack.org/A Tale of Two Commonwealths.wabbajack_30fc8c8c-a958-42c9-a45e-33f674d2f823",
       "machineURL": "TTC",
