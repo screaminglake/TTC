@@ -22,18 +22,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/NxjQd94.png",
       "readme": "https://www.fallout4experiences.com/tale-of-two-commonwealths",
-      "download": "https://authored-files.wabbajack.org/A Tale of Two Commonwealths.wabbajack_bc826f8c-0c58-44b3-8c02-3a72e95c262d",
+      "download": "https://authored-files.wabbajack.org/A Tale of Two Commonwealths.wabbajack_17c2efbf-97fd-44ad-af7f-6ab0f8c91773",
       "machineURL": "TTC",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "I657LSg4WGw=",
-      "Size": 3558757,
+      "Hash": "gRuRsIC43MM=",
+      "Size": 3558681,
       "NumberOfArchives": 338,
       "SizeOfArchives": 48069893258,
       "NumberOfInstalledFiles": 12211,
-      "SizeOfInstalledFiles": 58218067766
+      "SizeOfInstalledFiles": 58218067764
     },
     "version": "1.0",
     "RepositoryName": ""
