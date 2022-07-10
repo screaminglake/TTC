@@ -1,7 +1,7 @@
 # 1.2
 
   -Added Silent Protagonist F4SE <br />
-  -Added Classic Vault Suit Replacer (created in-house by PanikGoblin) v
+  -Added Classic Vault Suit Replacer (created in-house by PanikGoblin) <br />
   -Added Capital Wasteland 10mm Pistol Unofficial Update and Replacer (created in-house by codeblackcrash) <br />
   -Added Capital Wasteland Hunting Rifle Unofficial Update and Replacer (created in-house by codeblackcrash) <br />
   -Added Capital Wasteland 10mm SMG Edits and Replacer (created in-house by 4estGimp) <br />
