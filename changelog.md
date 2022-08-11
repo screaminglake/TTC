@@ -1,5 +1,26 @@
 # 1.3
 
+  -Added Varmint Rifle Unofficial Update (created in-house by codeblackcrash) <br />
+  -Added .32 Caliber Pistol Unofficial Update (created in-house by codeblackcrash) <br />
+  -Added Wattz Laser Gun Unofficial Update (created in-house by codeblackcrash) <br />
+  -Added ENB HQ Raindrops 2 (replaced ENB HQ Raindrops 1) <br />
+  -Added Bighorners - Radstags replacement <br />
+  -Added Coyotes - Vicious Dogs replacement <br />
+  -Added Securitrons - Sentry Bots replacement <br />
+  -Added Ammo Crafting Workbench and Project Mojave reskin <br />
+  -Added Desperados Overhaul Fixes <br />
+  -Added Raider Legion Overhaul - Nuka World patch <br />
+  -Updated SKK Random Encounter Manager <br />
+  -Updated Equipment and Crafting Overhaul and Universal Workbench patch <br />
+  -Updated Boston FPS Fix - PRP Edition <br />
+  -Updated HK G3 - Battle Rifle <br />
+  -Updated Unofficial Patch for Fallout 4 <br />
+  -Updated Workshop Framework <br />
+  -Updated Minutemen NCR Overhaul <br />
+  -Updated Wetness Shader Fix <br />
+  -Removed Raider Children, Orphans of the Commonwealth, and Immersive Killable Children (set of mods used to add harrowing scenarios realistically possible scenarios in the Fallout universe and a post-apocalyptic envrionment, but some elements of Raider Children took things too far and so the decision was made to remove these mods) <br />
+  -Removed Radioactive Stories
+
 # 1.2
 
   -Added Silent Protagonist F4SE <br />
