@@ -1,3 +1,22 @@
+# 1.4
+  
+  -Added South of the Sea - Atom's Storm <br />
+  -Added .22 Pistol Unofficial Update (created in-house by codeblackcrash) ( <br />
+  -Added Forsythia Replacer - Fungal Commonwealth LITE (created in-house by Marvesly/Corpz) <br />
+  -Added Mojave Bumper Swords and Vertibird Blade <br />
+  -Updated Workshop Framework <br />
+  -Updated 12.7mm Pistol Unofficial Update <br />
+  -Updated Terrain Undersides <br />
+  -Updated Equipment and Crafting Overhaul and its workbench patch <br />
+  -Updated Private Contract - Talon Company Mercs <br />
+  -Updated Immersive Candles <br />
+  -Updated Mutant Menagerie (includes many essential fixes of long-standing issues) <br />
+  -Updated F3 Furniture Replacer <br />
+  -Removed .32 pistol <br />
+  -Removed Diamond City Ambience <br />
+  -Resolved previs conflicts on FNV profile
+
+
 # 1.3
 
   -Added Varmint Rifle Unofficial Update (created in-house by codeblackcrash) <br />
