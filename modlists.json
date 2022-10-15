@@ -1,8 +1,7 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "A Tale of Two Commonwealths",
-    "description": "A Tale of Two Commonwealths is an experience based around the concept of transforming the look and feel of Fallout 4 into that of Fallout 3 and New Vegas, respectively.  We have compiled nearly every known and publicly available Fallout 3/New Vegas-inspired mod out there and brought them all together through the use of two profiles that allow you to seamlessly transition between the experiences of Fallout 3 and New Vegas with a couple clicks.  Everything from equipment to gameplay and visuals (including custom ENB presets for both profiles) has been overhauled to match the feel and aesthetics of classic Fallout's.",
+    "description": "A Tale of Two Commonwealths is an experience based around the concept of transforming the look and feel of Fallout 4 into that of Fallout 3 and New Vegas, respectively.  We have compiled nearly every known and publicly available Fallout 3/New Vegas-inspired mod out there and brought them all together through the use of two profiles that allow you to seamlessly transition between the experiences of Fallout 3 and New Vegas with a couple clicks.  Everything from equipment to gameplay and visuals (including custom ENB presets for both profiles) has been overhauled to match the feel and aesthetics of classic Fallout\u0027s.",
     "author": "ScreamingLake",
     "maintainers": [
       "github/screaminglake"
@@ -19,23 +18,23 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/LTyZMAc.png",
       "readme": "https://www.fallout4experiences.com/tale-of-two-commonwealths",
-      "download": "https://authored-files.wabbajack.org/A Tale of Two Commonwealths.wabbajack_d6828cd5-5901-4026-ab3b-36162be2e5a2",
+      "download": "https://authored-files.wabbajack.org/Tale of Two Commonwealths.wabbajack_06c6c152-d5ac-4f70-acbd-9a84f29aaab3",
       "machineURL": "TTC",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "VE/jNFPmSho=",
-      "Size": 3634455,
-      "NumberOfArchives": 354,
-      "SizeOfArchives": 49583142048,
-      "NumberOfInstalledFiles": 12754,
-      "SizeOfInstalledFiles": 59341032713
+      "Hash": "7RjdiJ9SgHo=",
+      "Size": 4067106,
+      "NumberOfArchives": 363,
+      "SizeOfArchives": 50235912165,
+      "NumberOfInstalledFiles": 12234,
+      "SizeOfInstalledFiles": 60191940825
     },
-    "version": "1.4",
-    "RepositoryName": ""
+    "version": "1.4.4",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-15T03:09:36.5766196Z",
+    "repositoryName": ""
   }
 ]
