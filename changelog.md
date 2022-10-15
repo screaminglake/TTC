@@ -1,3 +1,20 @@
+# 1.4.4
+
+  -Added Wooden Board - F4NV Wooden Crutch Replacer (created in-house by PanikGoblin)
+  -Added DKS-501 Unofficial Update (created in-house by codeblackcrash)
+  -Added F4NV Service Rifle Redux Combat Rifle Replacer (created in-house by 4estGimp)
+  -Added Backpacks of the Commonwealth
+  -Added Campsite
+  -Added FNV Posters and Signs (workshop items)
+  -Added Levelled Item Framework
+  -Updated LOST Audio Tweaks and necessary patches
+  -Updated Workshop Framework
+  -Updated Equipment and Crafting Overhaul and universal workbench patches
+  -Updated Radioactive Signs - Lighting AIO
+  -Updated Terrain Undersides
+  -Removed Mikemoore 2016 Bumper Swords (redundant)
+  -Updated patches and documentation to accommodate aforementioned updates
+
 # 1.4
   
   -Added South of the Sea - Atom's Storm <br />
