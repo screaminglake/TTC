@@ -2,7 +2,7 @@
 
   -Added Wooden Board - F4NV Wooden Crutch Replacer (created in-house by PanikGoblin) <br />
   -Added DKS-501 Unofficial Update (created in-house by codeblackcrash) <br />
-  -Added F4NV Service Rifle Redux Combat Rifle Replacer (created in-house by 4estGimp) v
+  -Added F4NV Service Rifle Redux Combat Rifle Replacer (created in-house by 4estGimp) <br />
   -Added Backpacks of the Commonwealth <br />
   -Added Campsite <br />
   -Added FNV Posters and Signs (workshop items) <br />
