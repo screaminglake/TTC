@@ -1,24 +1,24 @@
 # 1.4.4
 
-  -Added Wooden Board - F4NV Wooden Crutch Replacer (created in-house by PanikGoblin)
-  -Added DKS-501 Unofficial Update (created in-house by codeblackcrash)
-  -Added F4NV Service Rifle Redux Combat Rifle Replacer (created in-house by 4estGimp)
-  -Added Backpacks of the Commonwealth
-  -Added Campsite
-  -Added FNV Posters and Signs (workshop items)
-  -Added Levelled Item Framework
-  -Updated LOST Audio Tweaks and necessary patches
-  -Updated Workshop Framework
-  -Updated Equipment and Crafting Overhaul and universal workbench patches
-  -Updated Radioactive Signs - Lighting AIO
-  -Updated Terrain Undersides
-  -Removed Mikemoore 2016 Bumper Swords (redundant)
+  -Added Wooden Board - F4NV Wooden Crutch Replacer (created in-house by PanikGoblin) <br />
+  -Added DKS-501 Unofficial Update (created in-house by codeblackcrash) <br />
+  -Added F4NV Service Rifle Redux Combat Rifle Replacer (created in-house by 4estGimp) v
+  -Added Backpacks of the Commonwealth <br />
+  -Added Campsite <br />
+  -Added FNV Posters and Signs (workshop items) <br />
+  -Added Levelled Item Framework <br />
+  -Updated LOST Audio Tweaks and necessary patches <br />
+  -Updated Workshop Framework <br />
+  -Updated Equipment and Crafting Overhaul and universal workbench patches <br />
+  -Updated Radioactive Signs - Lighting AIO <br />
+  -Updated Terrain Undersides <br />
+  -Removed Mikemoore 2016 Bumper Swords (redundant) <br />
   -Updated patches and documentation to accommodate aforementioned updates
 
 # 1.4
   
   -Added South of the Sea - Atom's Storm <br />
-  -Added .22 Pistol Unofficial Update (created in-house by codeblackcrash) ( <br />
+  -Added .22 Pistol Unofficial Update (created in-house by codeblackcrash) <br />
   -Added Forsythia Replacer - Fungal Commonwealth LITE (created in-house by Marvesly/Corpz) <br />
   -Added Mojave Bumper Swords and Vertibird Blade <br />
   -Updated Workshop Framework <br />
