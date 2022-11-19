@@ -1,3 +1,25 @@
+# 1.5 - FINAL (MAJOR) UPDATE!
+
+  -Added new F3/FNV HUD layouts from m8r98a4f2 <br />
+  -Added Lots More Female Hairstyles <br />
+  -Added Companion Stealth Distance Fix <br />
+  -Added Crafting Highlight Fix <br />
+  -Added Project Mojave Settlement Objects <br />
+  -Added Point Lookout Settlement Objects <br /> 
+  -Added Project Zeta Settlement Objects <br />
+  -Added Improved Maps with Visible Roads <br />
+  -Added Eli's Sleeveless Outfits with No AWKCR patch <br />
+  -Added FallUI - Inventory and Workbench (all menu's should be consistently green/amber as appropriate) <br />
+  -Updated Equipment and Crafting Overhaul and universal workbench patches<br />
+  -Updated Inner City Ambience <br />
+  -Updated FallUI - HUD <br />
+  -Updated MCM Settings Manager and updated both profile MCM settings presets <br />
+  -Updated Levelled Item Framework <br />
+  -Updated Workshop Framework <br />
+  -Updated LOST Audio Tweaks <br />
+  -Removed Sig Sauer 12.7mm Unofficial Update <br />
+  -Updated patch sets as necessary for aforementioned changes
+
 # 1.4.4
 
   -Added Wooden Board - F4NV Wooden Crutch Replacer (created in-house by PanikGoblin) <br />
