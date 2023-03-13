@@ -7,11 +7,10 @@
       "github/screaminglake"
     ],
     "game": "fallout4",
-    "official": true,
+    "official": false,
     "tags": [
       "Classic Fallout",
-      "Experience",
-      "Official"
+      "Experience"
     ],
     "nsfw": false,
     "utility_list": false,
